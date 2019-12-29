@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="Next" size="5.000000 5.000000" />
+    <ImageTarget name="Letter_Z_new" size="5.000000 5.046948" />
+    <ImageTarget name="Letter_Y_new" size="5.000000 5.000000" />
+    <ImageTarget name="Letter_X_new" size="5.000000 4.620253" />
+    <ImageTarget name="Letter_W_new" size="5.000000 4.124088" />
+    <ImageTarget name="Letter_V_new" size="5.000000 5.342466" />
+    <ImageTarget name="Letter_U_new" size="5.000000 5.651163" />
+    <ImageTarget name="Letter_T_new" size="5.000000 5.531401" />
+    <ImageTarget name="Letter_S_new" size="5.000000 5.295567" />
+    <ImageTarget name="Letter_R_new" size="5.000000 4.486692" />
+    <ImageTarget name="Letter_Q_new" size="5.000000 4.701195" />
+    <ImageTarget name="Letter_P_new" size="5.000000 5.606061" />
+    <ImageTarget name="Letter_O_new" size="5.000000 4.595142" />
+    <ImageTarget name="Letter_N_new" size="5.000000 5.201794" />
+    <ImageTarget name="Letter_M_new" size="5.000000 4.768908" />
+    <ImageTarget name="Letter_L_new" size="5.000000 5.678392" />
+    <ImageTarget name="Letter_K_new" size="5.000000 5.043668" />
+    <ImageTarget name="Letter_J_new" size="5.000000 5.232558" />
+    <ImageTarget name="Letter_I_new" size="5.000000 8.507463" />
+    <ImageTarget name="Letter_H_new" size="5.000000 5.042017" />
+    <ImageTarget name="Letter_G_new" size="5.000000 4.488189" />
+    <ImageTarget name="Letter_F_new" size="5.000000 4.736842" />
+    <ImageTarget name="Letter_E_new" size="5.000000 4.581590" />
+    <ImageTarget name="Letter_D_new" size="5.000000 4.711111" />
+    <ImageTarget name="Letter_C_new" size="5.000000 4.767932" />
+    <ImageTarget name="Letter_B_new" size="5.000000 5.165877" />
+    <ImageTarget name="Letter_A_new" size="5.000000 4.754464" />
+    <ImageTarget name="Letter_Z" size="5.000000 5.046948" />
+    <ImageTarget name="Letter_Y" size="5.000000 5.000000" />
+    <ImageTarget name="Letter_X" size="5.000000 4.620253" />
+    <ImageTarget name="Letter_W" size="5.000000 4.124088" />
+    <ImageTarget name="Letter_V" size="5.000000 5.342466" />
+    <ImageTarget name="Letter_U" size="5.000000 5.651163" />
+    <ImageTarget name="Letter_T" size="5.000000 5.531401" />
+    <ImageTarget name="Letter_S" size="5.000000 5.295567" />
+    <ImageTarget name="Letter_R" size="5.000000 4.486692" />
+    <ImageTarget name="Letter_Q" size="5.000000 4.701195" />
+    <ImageTarget name="Letter_P" size="5.000000 5.606061" />
+    <ImageTarget name="Letter_O" size="5.000000 4.595142" />
+    <ImageTarget name="Letter_N" size="5.000000 5.201794" />
+    <ImageTarget name="Letter_M" size="5.000000 4.768908" />
+    <ImageTarget name="Letter_L" size="5.000000 5.678392" />
+    <ImageTarget name="Letter_K" size="5.000000 5.043668" />
+    <ImageTarget name="Letter_J" size="5.000000 5.232558" />
+    <ImageTarget name="Letter_I" size="5.000000 8.507463" />
+    <ImageTarget name="Letter_H" size="5.000000 5.042017" />
+    <ImageTarget name="Letter_G" size="5.000000 4.488189" />
+    <ImageTarget name="Letter_F" size="5.000000 4.736842" />
+    <ImageTarget name="Letter_E" size="5.000000 4.581590" />
+    <ImageTarget name="Letter_D" size="5.000000 4.711111" />
+    <ImageTarget name="Letter_C" size="5.000000 4.767932" />
+    <ImageTarget name="Letter_B" size="5.000000 5.165877" />
+    <ImageTarget name="Letter_A" size="5.000000 4.754464" />
+  </Tracking>
+</QCARConfig>
