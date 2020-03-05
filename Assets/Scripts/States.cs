@@ -103,4 +103,16 @@ public class States : MonoBehaviour
 
         Next = State_Next;
     }
+
+    public static bool CheckIfLetterIsActive(char letter)
+    {
+        if (State_A && letter == 'A')
+            return true;
+        else if (State_B && letter == 'B')
+            return true;
+        else if (State_C && letter == 'C')
+            return true;
+        else
+            return false;
+    }
 }

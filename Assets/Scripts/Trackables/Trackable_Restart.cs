@@ -26,7 +26,7 @@ public class Trackable_Restart : MonoBehaviour, ITrackableEventHandler
         {
             // Play audio when target is found
             States.State_Restart = true;
-            Dictionary.next_count = 0;
+            Logic.next_count = 0;
         }
         else
         {

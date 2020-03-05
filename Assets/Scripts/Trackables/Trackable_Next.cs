@@ -26,7 +26,7 @@ public class Trackable_Next : MonoBehaviour, ITrackableEventHandler
         {
             // Play audio when target is found
             States.State_Next = true;
-            Dictionary.next_count += 1;
+            Logic.next_count += 1;
         }
         else
         {
