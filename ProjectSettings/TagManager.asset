@@ -30,6 +30,7 @@ TagManager:
   - X
   - Y
   - Z
+  - '*'
   layers:
   - Default
   - TransparentFX

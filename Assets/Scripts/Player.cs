@@ -28,6 +28,6 @@ public class Player : NetworkBehaviour
     void CmdSwitchTurn()
     {
         GameObject.FindGameObjectWithTag("GameController").GetComponent<LogicNetwork>().Switch();
-        Debug.Log("Switch Server");
+        //Debug.Log("Switch Server");
     }
 }

@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using Vuforia;
 
-public class Trackable_Z : MonoBehaviour, ITrackableEventHandler
+public class TrackableAll : MonoBehaviour, ITrackableEventHandler
 {
     private TrackableBehaviour mTrackableBehaviour;
 
@@ -24,13 +24,25 @@ public class Trackable_Z : MonoBehaviour, ITrackableEventHandler
             newStatus == TrackableBehaviour.Status.TRACKED ||
             newStatus == TrackableBehaviour.Status.EXTENDED_TRACKED)
         {
-            // Play audio when target is found
-            States.State_Z = true;
+            if(gameObject.name == "A")
+                States.State_A = true;
+            if (gameObject.name == "B")
+                States.State_B = true;
+            if (gameObject.name == "C")
+                States.State_C = true;
+            if (gameObject.name == "*")
+                States.State_Next = true;
         }
         else
         {
-            // Stop audio when target is lost
-            States.State_Z = false;
+            if (gameObject.name == "A")
+                States.State_A = false;
+            if (gameObject.name == "B")
+                States.State_B = false;
+            if (gameObject.name == "C")
+                States.State_C = false;
+            if (gameObject.name == "*")
+                States.State_Next = false;
         }
     }
 }

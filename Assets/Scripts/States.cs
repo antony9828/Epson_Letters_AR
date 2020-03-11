@@ -112,6 +112,8 @@ public class States : MonoBehaviour
             return true;
         else if (State_C && letter == 'C')
             return true;
+        else if (State_Next && letter == '*')
+            return true;
         else
             return false;
     }
